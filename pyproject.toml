@@ -13,4 +13,5 @@ django = "~3.2"
 psycopg2-binary = "~2.9"
 python = "^3.8"
 environs = "^9.5.0"
+dj-database-url = "^2.0.0"
 [tool.poetry.dev-dependencies]
